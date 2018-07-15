@@ -1,8 +1,8 @@
-baseURL = "https://plebsf.github.io/Test/"
+baseURL = "https://www.smartprog.xyz/"
 languageCode = "ja-JA"
 title = "10歳から初めるスマホプログラミング！"
 theme="amp"
-baseurl = "https://plebsf.github.io/Test/"
+baseurl = "https://www.smartprog.xyz/"
 copyright = "© My Site"
 canonifyurls = true
 
