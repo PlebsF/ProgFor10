@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://plebsf.github.io/Test/"
 languageCode = "ja-JA"
 title = "10歳から初めるスマホプログラミング！"
 theme="amp"

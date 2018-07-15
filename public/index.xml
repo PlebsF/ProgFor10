@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>10歳から初めるスマホプログラミング！</title>
-    <link>http://example.org/</link>
+    <link>https://plebsf.github.io/Test/</link>
     <description>Recent content on 10歳から初めるスマホプログラミング！</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JA</language>
     <copyright>© My Site</copyright>
     <lastBuildDate>Sun, 15 Jul 2018 13:54:42 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://plebsf.github.io/Test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>テストページ</title>
-      <link>http://example.org/post/post01/</link>
+      <link>https://plebsf.github.io/Test/post/post01/</link>
       <pubDate>Sun, 15 Jul 2018 13:54:42 +0900</pubDate>
       
-      <guid>http://example.org/post/post01/</guid>
+      <guid>https://plebsf.github.io/Test/post/post01/</guid>
       <description>目次  aaa bbb ccc  aaa Hello World
 bbb Hello
 ccc How are you?
