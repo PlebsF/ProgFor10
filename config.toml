@@ -1,0 +1,19 @@
+baseURL = "http://example.org/"
+languageCode = "ja-JA"
+title = "10歳から初めるスマホプログラミング！"
+theme="amp"
+baseurl = ""
+copyright = "© My Site"
+canonifyurls = true
+
+[params]
+  description = "テストディスクリプション" #optional
+  googleanalytics = "Your Tracking Id" # optional
+
+# optional
+[social]
+  twitter = "Your Twitter Name"
+  github = "Your Github Name"
+  facebook = "Your facebook Name"
+  gplus = "Your Google+ profile name"
+  linkedin = "Your LinkedIn Name"
