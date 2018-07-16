@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>計算 on 10歳から初めるスマホプログラミング！</title>
+    <link>https://www.smartprog.xyz/calculation/</link>
+    <description>Recent content in 計算 on 10歳から初めるスマホプログラミング！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JA</language>
+    <copyright>© My Site</copyright>
+    <lastBuildDate>Mon, 16 Jul 2018 12:57:30 +0900</lastBuildDate>
+    
+	<atom:link href="https://www.smartprog.xyz/calculation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>引き算</title>
+      <link>https://www.smartprog.xyz/calculation/second-content/</link>
+      <pubDate>Mon, 16 Jul 2018 12:58:48 +0900</pubDate>
+      
+      <guid>https://www.smartprog.xyz/calculation/second-content/</guid>
+      <description>引き算 print(10 - 5)</description>
+    </item>
+    
+    <item>
+      <title>たしざん</title>
+      <link>https://www.smartprog.xyz/calculation/first-content/</link>
+      <pubDate>Mon, 16 Jul 2018 12:58:42 +0900</pubDate>
+      
+      <guid>https://www.smartprog.xyz/calculation/first-content/</guid>
+      <description>足し算 print(5 * 5)</description>
+    </item>
+    
+  </channel>
+</rss>

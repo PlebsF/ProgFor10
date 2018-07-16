@@ -17,3 +17,7 @@ canonifyurls = true
   facebook = "Your facebook Name"
   gplus = "Your Google+ profile name"
   linkedin = "Your LinkedIn Name"
+
+  # For search functionnality
+ [outputs]
+ home = [ "HTML", "RSS", "JSON"]

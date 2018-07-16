@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.smartprog.xyz/firstprogram/</loc>
+    <lastmod>2018-07-16T12:57:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smartprog.xyz/calculation/</loc>
+    <lastmod>2018-07-16T12:57:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smartprog.xyz/calculation/second-content/</loc>
+    <lastmod>2018-07-16T12:58:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smartprog.xyz/calculation/first-content/</loc>
+    <lastmod>2018-07-16T12:58:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smartprog.xyz/firstprogram/second-content/</loc>
+    <lastmod>2018-07-16T12:58:22+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smartprog.xyz/firstprogram/first-content/</loc>
+    <lastmod>2018-07-16T12:58:15+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.smartprog.xyz/post/post04/</loc>
     <lastmod>2018-07-16T10:42:10+09:00</lastmod>
   </url>
@@ -24,7 +54,7 @@
   
   <url>
     <loc>https://www.smartprog.xyz/</loc>
-    <lastmod>2018-07-16T10:42:10+09:00</lastmod>
+    <lastmod>2018-07-16T12:58:48+09:00</lastmod>
     <priority>0</priority>
   </url>
   

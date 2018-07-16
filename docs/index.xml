@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JA</language>
     <copyright>© My Site</copyright>
-    <lastBuildDate>Mon, 16 Jul 2018 10:42:10 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jul 2018 12:58:48 +0900</lastBuildDate>
     
 	<atom:link href="https://www.smartprog.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>引き算</title>
+      <link>https://www.smartprog.xyz/calculation/second-content/</link>
+      <pubDate>Mon, 16 Jul 2018 12:58:48 +0900</pubDate>
+      
+      <guid>https://www.smartprog.xyz/calculation/second-content/</guid>
+      <description>引き算 print(10 - 5)</description>
+    </item>
+    
+    <item>
+      <title>たしざん</title>
+      <link>https://www.smartprog.xyz/calculation/first-content/</link>
+      <pubDate>Mon, 16 Jul 2018 12:58:42 +0900</pubDate>
+      
+      <guid>https://www.smartprog.xyz/calculation/first-content/</guid>
+      <description>足し算 print(5 * 5)</description>
+    </item>
+    
+    <item>
+      <title>数字の出力</title>
+      <link>https://www.smartprog.xyz/firstprogram/second-content/</link>
+      <pubDate>Mon, 16 Jul 2018 12:58:22 +0900</pubDate>
+      
+      <guid>https://www.smartprog.xyz/firstprogram/second-content/</guid>
+      <description>数字の出力 print(5)</description>
+    </item>
+    
+    <item>
+      <title>文字の出力</title>
+      <link>https://www.smartprog.xyz/firstprogram/first-content/</link>
+      <pubDate>Mon, 16 Jul 2018 12:58:15 +0900</pubDate>
+      
+      <guid>https://www.smartprog.xyz/firstprogram/first-content/</guid>
+      <description>文字の出力 print(&amp;ldquo;Hello World!&amp;rdquo;)</description>
+    </item>
     
     <item>
       <title>Post04</title>
