@@ -1,7 +1,7 @@
 baseURL = "https://www.smartprog.xyz/"
 languageCode = "ja-JA"
 title = "10歳から初めるスマホプログラミング！"
-theme="amp"
+theme="hugo-multi-bootswatch"
 baseurl = "https://www.smartprog.xyz/"
 copyright = "© My Site"
 canonifyurls = true
