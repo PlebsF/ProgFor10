@@ -27,7 +27,9 @@
       <pubDate>Mon, 16 Jul 2018 12:58:15 +0900</pubDate>
       
       <guid>https://www.smartprog.xyz/firstprogram/first-content/</guid>
-      <description>文字の出力 print(&amp;ldquo;Hello World!&amp;rdquo;)</description>
+      <description> 文字の出力 print(&amp;ldquo;Hello World!&amp;rdquo;)
+def main(): print(&amp;quot;Hello World!&amp;quot;) if __name__ == &#39;__main__&#39;: main()  こんにちは世界
+ </description>
     </item>
     
   </channel>

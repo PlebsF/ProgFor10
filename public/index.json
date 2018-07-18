@@ -39,7 +39,7 @@
 	"title": "文字の出力",
 	"tags": [],
 	"description": "",
-	"content": " 文字の出力 print(\u0026ldquo;Hello World!\u0026rdquo;)\n"
+	"content": " 文字の出力 print(\u0026ldquo;Hello World!\u0026rdquo;)\ndef main(): print(\u0026quot;Hello World!\u0026quot;) if __name__ == '__main__': main()  こんにちは世界\n "
 },
 {
 	"uri": "https://www.smartprog.xyz/post/post04/",
