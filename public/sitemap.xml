@@ -13,6 +13,26 @@
   </url>
   
   <url>
+    <loc>https://www.smartprog.xyz/test/testpost/</loc>
+    <lastmod>2018-07-23T03:55:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smartprog.xyz/</loc>
+    <lastmod>2018-07-23T04:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smartprog.xyz/test/</loc>
+    <lastmod>2018-07-23T03:55:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smartprog.xyz/post/</loc>
+    <lastmod>2018-07-23T03:52:55+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.smartprog.xyz/calculation/second-content/</loc>
     <lastmod>2018-07-16T12:58:48+09:00</lastmod>
   </url>
@@ -53,19 +73,7 @@
   </url>
   
   <url>
-    <loc>https://www.smartprog.xyz/</loc>
-    <lastmod>2018-07-16T12:58:48+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.smartprog.xyz/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.smartprog.xyz/post/</loc>
-    <lastmod>2018-07-16T10:42:10+09:00</lastmod>
     <priority>0</priority>
   </url>
   

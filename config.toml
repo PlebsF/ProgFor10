@@ -1,5 +1,5 @@
 baseURL = "https://www.smartprog.xyz/"
-languageCode = "ja-JA"
+languageCode = "Japanese"
 title = "10歳から初めるスマホプログラミング！"
 theme="hugo-theme-learn"
 baseurl = "https://www.smartprog.xyz/"
@@ -27,11 +27,23 @@ canonifyurls = true
     # A title for shortcuts in menu is set by default. Set this to true to disable it.
     disableShortcutsTitle = false
     # When using mulitlingual website, disable the switch language button.
-    disableLanguageSwitchingButton = false
+    disableLanguageSwitchingButton = true
     # Order sections in menu by "weight" or "title". Default to "weight"
     ordersectionsby = "weight"
     # Change default color scheme with a variant one. Can be "red", "blue", "green".
     themeVariant = "red"
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-github'></i> Github"
+identifier = "ds"
+url = "https://github.com/PlebsF/"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-twitter'></i> Twitter"
+identifier = "tw"
+url = "https://twitter.com/@tarupo_game"
+weight = 10
 
 # optional
 [social]
