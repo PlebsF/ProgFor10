@@ -19,7 +19,7 @@
       
       <guid>https://www.smartprog.xyz/test/testpost/</guid>
       <description> 目次  引用 コード リスト 画像  引用   Fusion Drive combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
- コード  print(&amp;quot;hello world!&amp;quot;)  リスト   Name  Name   画像  </description>
+ コード  print(&amp;quot;hello world!&amp;quot;)  リスト   Name  Name   画像     head1 head2     element1 element2    </description>
     </item>
     
   </channel>

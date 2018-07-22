@@ -32,3 +32,8 @@ print("hello world!")
 ## 画像 <a id="chapter-4"></a>
 
 ![ここ何入れてもいいのかな](http://octodex.github.com/images/minion.png)
+
+
+| head1 | head2 |
+|---------|---------|
+| element1 | element2 |
