@@ -13,13 +13,22 @@
     
     
     <item>
+      <title>プログラムってなんだろう？</title>
+      <link>https://www.smartprog.xyz/firstprogram/what-is-program/</link>
+      <pubDate>Mon, 23 Jul 2018 15:23:56 +0900</pubDate>
+      
+      <guid>https://www.smartprog.xyz/firstprogram/what-is-program/</guid>
+      <description>プログラムって？ さて、前のページではじめてプログラムを動かしてみたわけだけどそもそもプログラムってなんだろう？</description>
+    </item>
+    
+    <item>
       <title>プログラムを動かしてみよう！</title>
       <link>https://www.smartprog.xyz/firstprogram/run-program/</link>
       <pubDate>Mon, 23 Jul 2018 14:39:34 +0900</pubDate>
       
       <guid>https://www.smartprog.xyz/firstprogram/run-program/</guid>
       <description>じゃあさっそくプログラムを動かしてみよう！
-まずは、プログラムを動かすためのサイトを紹介するよ！ ここ をクリックしてみてね！</description>
+まずは、プログラムを動かすためのサイトを紹介するよ！ ここ をクリックしてください。</description>
     </item>
     
   </channel>

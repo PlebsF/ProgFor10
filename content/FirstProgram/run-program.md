@@ -3,7 +3,7 @@ title =  "プログラムを動かしてみよう！"
 date =  2018-07-23T14:39:34+09:00
 draft = false
 disableToc = "false"
-menuTitle = "プログラムを動かす"
+menuTitle = "プログラムを動かしてみよう！"
 pre = "1."
 # The title of the page in menu will be postfixed by this HTML content
 post = ""
@@ -21,4 +21,4 @@ LastModifierEmail = "plebsf@gmail.com"
 
 まずは、プログラムを動かすためのサイトを紹介するよ！
 [ここ](https://mybinder.org/v2/gh/PlebsF/JupyterNotebook/master?filepath=note01.ipynb)
-をクリックしてみてね！
+をクリックしてください。
