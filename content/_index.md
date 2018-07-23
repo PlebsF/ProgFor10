@@ -1,28 +1,18 @@
 +++
-title = "10歳から初めるスマホプログラミング！"
+title = "10歳からはじめるスマホプログラミング！"
 date = 2018-07-23T04:33:41+09:00
 draft = false
 menuTitle = "メニュータイトル"
 pre = "1. "
 post = ""
-LastModifierDisplayName = "ぷれぶす"
+LastModifierDisplayName = "名前"
 LastModifierEmail = "plebsf@gmail.com"
 +++
 
-hello world!
+# 10歳からはじめるスマホプログラミング！
 
-main content
+### スマホでプログラミングをはじめよう！
+プログラミング面白いよ
 
-index automaticallya
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
+### Pythonとは？
+Youtubeとかもこの言語で作られてるよ

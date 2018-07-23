@@ -1,13 +1,13 @@
 baseURL = "https://www.smartprog.xyz/"
 languageCode = "Japanese"
-title = "10歳から初めるスマホプログラミング！"
+title = "10歳からはじめるスマホプログラミング！"
 theme="hugo-theme-learn"
 baseurl = "https://www.smartprog.xyz/"
-copyright = "© My Site"
+copyright = "© NAME"
 canonifyurls = true
 
 [params]
-  description = "テストディスクリプション" #optional
+  description = "Pythonをつかってスマホプログラミングを勉強する" #optional
   googleanalytics = "Your Tracking Id" # optional
     # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page.
     # Useful to give opportunity to people to create merge request for your doc.
@@ -42,16 +42,13 @@ weight = 10
 [[menu.shortcuts]]
 name = "<i class='fa fa-twitter'></i> Twitter"
 identifier = "tw"
-url = "https://twitter.com/@tarupo_game"
+url = "https://twitter.com/@id"
 weight = 10
 
 # optional
 [social]
   twitter = "Your Twitter Name"
-  github = "Your Github Name"
-  facebook = "Your facebook Name"
-  gplus = "Your Google+ profile name"
-  linkedin = "Your LinkedIn Name"
+  github = "PlebsF"
 
   # For search functionnality
  [outputs]

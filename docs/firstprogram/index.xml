@@ -1,36 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>初めてのプログラム on 10歳から初めるスマホプログラミング！</title>
+    <title>初めてのプログラム on 10歳からはじめるスマホプログラミング！</title>
     <link>https://www.smartprog.xyz/firstprogram/</link>
-    <description>Recent content in 初めてのプログラム on 10歳から初めるスマホプログラミング！</description>
+    <description>Recent content in 初めてのプログラム on 10歳からはじめるスマホプログラミング！</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>Japanese</language>
-    <copyright>© My Site</copyright>
+    <copyright>© NAME</copyright>
     <lastBuildDate>Mon, 16 Jul 2018 12:57:42 +0900</lastBuildDate>
     
 	<atom:link href="https://www.smartprog.xyz/firstprogram/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>数字の出力</title>
-      <link>https://www.smartprog.xyz/firstprogram/second-content/</link>
-      <pubDate>Mon, 16 Jul 2018 12:58:22 +0900</pubDate>
-      
-      <guid>https://www.smartprog.xyz/firstprogram/second-content/</guid>
-      <description>数字の出力 print(5)</description>
-    </item>
-    
-    <item>
-      <title>文字の出力</title>
-      <link>https://www.smartprog.xyz/firstprogram/first-content/</link>
-      <pubDate>Mon, 16 Jul 2018 12:58:15 +0900</pubDate>
-      
-      <guid>https://www.smartprog.xyz/firstprogram/first-content/</guid>
-      <description> 文字の出力 print(&amp;ldquo;Hello World!&amp;rdquo;)
-def main(): print(&amp;quot;Hello World!&amp;quot;) if __name__ == &#39;__main__&#39;: main()  こんにちは世界
- </description>
-    </item>
     
   </channel>
 </rss>

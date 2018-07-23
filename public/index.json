@@ -22,10 +22,10 @@
 },
 {
 	"uri": "https://www.smartprog.xyz/",
-	"title": "10歳から初めるスマホプログラミング！",
+	"title": "10歳からはじめるスマホプログラミング！",
 	"tags": [],
 	"description": "",
-	"content": "hello world!\nmain content\nindex automaticallya\na\na\na\na\na\na\n"
+	"content": " 10歳からはじめるスマホプログラミング！ スマホでプログラミングをはじめよう！ プログラミング面白いよ\nPythonとは？ Youtubeとかもこの言語で作られてるよ\n"
 },
 {
 	"uri": "https://www.smartprog.xyz/test/",
@@ -40,34 +40,6 @@
 	"tags": [],
 	"description": "",
 	"content": " ポストフォルダの_index.mdファイル "
-},
-{
-	"uri": "https://www.smartprog.xyz/calculation/second-content/",
-	"title": "引き算",
-	"tags": [],
-	"description": "",
-	"content": " 引き算 print(10 - 5)\n"
-},
-{
-	"uri": "https://www.smartprog.xyz/calculation/first-content/",
-	"title": "たしざん",
-	"tags": [],
-	"description": "",
-	"content": " 足し算 print(5 * 5)\n"
-},
-{
-	"uri": "https://www.smartprog.xyz/firstprogram/second-content/",
-	"title": "数字の出力",
-	"tags": [],
-	"description": "",
-	"content": " 数字の出力 print(5)\n"
-},
-{
-	"uri": "https://www.smartprog.xyz/firstprogram/first-content/",
-	"title": "文字の出力",
-	"tags": [],
-	"description": "",
-	"content": " 文字の出力 print(\u0026ldquo;Hello World!\u0026rdquo;)\ndef main(): print(\u0026quot;Hello World!\u0026quot;) if __name__ == '__main__': main()  こんにちは世界\n "
 },
 {
 	"uri": "https://www.smartprog.xyz/post/post04/",

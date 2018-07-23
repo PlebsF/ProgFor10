@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ポスト on 10歳から初めるスマホプログラミング！</title>
+    <title>ポスト on 10歳からはじめるスマホプログラミング！</title>
     <link>https://www.smartprog.xyz/post/</link>
-    <description>Recent content in ポスト on 10歳から初めるスマホプログラミング！</description>
+    <description>Recent content in ポスト on 10歳からはじめるスマホプログラミング！</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>Japanese</language>
-    <copyright>© My Site</copyright>
+    <copyright>© NAME</copyright>
     <lastBuildDate>Mon, 23 Jul 2018 03:52:55 +0900</lastBuildDate>
     
 	<atom:link href="https://www.smartprog.xyz/post/index.xml" rel="self" type="application/rss+xml" />
