@@ -8,7 +8,16 @@ canonifyurls = true
 
 [params]
   description = "Pythonをつかってスマホプログラミングを勉強する" #optional
-  googleanalytics = "UA-122734515-1" # optional
+  googleanalytics = "<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122734515-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122734515-1');
+</script>
+" # optional
     # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page.
     # Useful to give opportunity to people to create merge request for your doc.
     # See the config.toml file from this documentation site to have an example.
