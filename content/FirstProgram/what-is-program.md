@@ -7,6 +7,7 @@ pre = "2."
 post = ""
 chapter = false
 hidden = false
+weight = 2
 +++
 
 さて、はじめてプログラムを動かしてみたわけだけど、そもそも

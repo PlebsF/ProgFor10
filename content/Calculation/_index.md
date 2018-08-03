@@ -1,6 +1,6 @@
 +++
 title = "計算"
-weight = 5
+weight = 6
 chapter = true
 pre = "<b>2. </b>"
 +++

@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>プログラムを動かしてみよう！</title>
+      <link>https://www.smartprog.xyz/firstprogram/run-program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.smartprog.xyz/firstprogram/run-program/</guid>
+      <description>じゃあさっそくプログラムを動かしてみよう！
+まずは、プログラムを動かすためのサイトを紹介するよ！ ここ をクリックしてください。</description>
+    </item>
+    
+    <item>
       <title>プログラムってなんだろう？</title>
       <link>https://www.smartprog.xyz/firstprogram/what-is-program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -25,16 +35,6 @@ print(よみかた：プリント)とは「文字をひょうじしなさい」�
 こんな風にプログラムには、「〜をしなさい」というコンピュータへのめいれいが 上からじゅんばんに かかれます。
 こういう めいれい をたくさん組み合わせて、かっこいいWebページやみんなが遊ぶゲームなどさまざまなものが作られているんだ！
 みんなも、このページでたくさんの めいれい の書き方や、プログラムの作り方をべんきょうして色々なものを作れるようになろう！</description>
-    </item>
-    
-    <item>
-      <title>プログラムを動かしてみよう！</title>
-      <link>https://www.smartprog.xyz/firstprogram/run-program/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.smartprog.xyz/firstprogram/run-program/</guid>
-      <description>じゃあさっそくプログラムを動かしてみよう！
-まずは、プログラムを動かすためのサイトを紹介するよ！ ここ をクリックしてください。</description>
     </item>
     
     <item>

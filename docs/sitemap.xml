@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.smartprog.xyz/firstprogram/run-program/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.smartprog.xyz/firstprogram/what-is-program/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.smartprog.xyz/firstprogram/print/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.smartprog.xyz/firstprogram/</loc>
   </url>
   
@@ -58,18 +70,6 @@
   <url>
     <loc>https://www.smartprog.xyz/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.smartprog.xyz/firstprogram/what-is-program/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.smartprog.xyz/firstprogram/run-program/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.smartprog.xyz/firstprogram/print/</loc>
   </url>
   
 </urlset>

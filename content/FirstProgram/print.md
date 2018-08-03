@@ -3,6 +3,7 @@ title =  "文字をひょうじしよう！"
 draft = false
 disableToc = "false"
 pre = "3."
+weight = 3
 +++
 
 ### もくじ

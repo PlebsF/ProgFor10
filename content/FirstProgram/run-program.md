@@ -7,6 +7,7 @@ pre = "1."
 post = ""
 chapter = false
 hidden = false
+weight = 1
 +++
 
 じゃあさっそくプログラムを動かしてみよう！
