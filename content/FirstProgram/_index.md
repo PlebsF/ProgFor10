@@ -1,6 +1,5 @@
 +++
 title = "初めてのプログラム"
-date = 2018-07-16T12:57:42+09:00
 weight = 5
 chapter = true
 pre = "<b>1. </b>"

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>Japanese</language>
     <copyright>© NAME</copyright>
-    <lastBuildDate>Mon, 23 Jul 2018 04:33:41 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jul 2018 03:55:16 +0900</lastBuildDate>
     
 	<atom:link href="https://www.smartprog.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,49 +20,6 @@
       <guid>https://www.smartprog.xyz/test/testpost/</guid>
       <description> 目次  引用 コード リスト 画像  引用   Fusion Drive combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
  コード  print(&amp;quot;hello world!&amp;quot;)  リスト   Name  Name   画像     head1 head2     element1 element2    </description>
-    </item>
-    
-    <item>
-      <title>プログラムを動かしてみよう！</title>
-      <link>https://www.smartprog.xyz/firstprogram/run-program/</link>
-      <pubDate>Mon, 23 Jul 2018 14:39:34 +0900</pubDate>
-      
-      <guid>https://www.smartprog.xyz/firstprogram/run-program/</guid>
-      <description>じゃあさっそくプログラムを動かしてみよう！
-まずは、プログラムを動かすためのサイトを紹介するよ！ ここ をクリックしてください。</description>
-    </item>
-    
-    <item>
-      <title>プログラムってなんだろう？</title>
-      <link>https://www.smartprog.xyz/firstprogram/what-is-program/</link>
-      <pubDate>Sun, 22 Jul 2018 15:23:56 +0900</pubDate>
-      
-      <guid>https://www.smartprog.xyz/firstprogram/what-is-program/</guid>
-      <description>さて、はじめてプログラムを動かしてみたわけだけど、そもそも プログラムってなんだろう？
-プログラムって？ 前のページでは、
-print(&amp;quot;こんにちは&amp;quot;) print(&amp;quot;プログラムを動かした&amp;quot;)  というプログラムを動かしましたね。
-これを詳しくみてみましょう。
-print(よみかた：プリント)とは「文字をひょうじしなさい」という めいれい です。
-こんな風にプログラムには、「〜をしなさい」というコンピュータへのめいれいが 上からじゅんばんに かかれます。
-こういう めいれい をたくさん組み合わせて、かっこいいWebページやみんなが遊ぶゲームなどさまざまなものが作られているんだ！
-みんなも、このページでたくさんの めいれい の書き方や、プログラムの作り方をべんきょうして色々なものを作れるようになろう！</description>
-    </item>
-    
-    <item>
-      <title>文字をひょうじしよう！</title>
-      <link>https://www.smartprog.xyz/firstprogram/print/</link>
-      <pubDate>Sat, 21 Jul 2018 16:28:55 +0900</pubDate>
-      
-      <guid>https://www.smartprog.xyz/firstprogram/print/</guid>
-      <description>もくじ  printで、もじをひょうじしよう！ printで、数をひょうじしよう！  前のページで少し言ったけど、print(プリント)は英語で「いんさつする」というえいごで、プログラミングでは「画面にひょうじしなさい」というめいれいだよ
-日本語にプリンターがあるけど、これもプリントからきてるね！
-printで、もじをひょうじしよう！  それじゃあ、printの使い方をくわしくみていくよ！
-print(&amp;quot;ひょうじしたい文字&amp;quot;)  のように、printでは&amp;rdquo;&amp;ldquo;でかこまれたもじをひょうじできるよ！
-ちなみに、
-print(&#39;ひょうじしたい文字&#39;)  のように、&amp;rsquo; &amp;lsquo;でかこってもOK!
-printで、数をひょうじしよう！  かずをひょうじするには、
-print(数) # 例 print(10)  というようにすればいいよ！
-じゃあじっさいにプログラムを書いてためしてみよう！ ここ</description>
     </item>
     
     <item>
@@ -102,6 +59,49 @@ print(数) # 例 print(10)  というようにすればいいよ！
 bbb Hello
 ccc How are you?
 Thank you for coming!</description>
+    </item>
+    
+    <item>
+      <title>プログラムってなんだろう？</title>
+      <link>https://www.smartprog.xyz/firstprogram/what-is-program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.smartprog.xyz/firstprogram/what-is-program/</guid>
+      <description>さて、はじめてプログラムを動かしてみたわけだけど、そもそも プログラムってなんだろう？
+プログラムって？ 前のページでは、
+print(&amp;quot;こんにちは&amp;quot;) print(&amp;quot;プログラムを動かした&amp;quot;)  というプログラムを動かしましたね。
+これを詳しくみてみましょう。
+print(よみかた：プリント)とは「文字をひょうじしなさい」という めいれい です。
+こんな風にプログラムには、「〜をしなさい」というコンピュータへのめいれいが 上からじゅんばんに かかれます。
+こういう めいれい をたくさん組み合わせて、かっこいいWebページやみんなが遊ぶゲームなどさまざまなものが作られているんだ！
+みんなも、このページでたくさんの めいれい の書き方や、プログラムの作り方をべんきょうして色々なものを作れるようになろう！</description>
+    </item>
+    
+    <item>
+      <title>プログラムを動かしてみよう！</title>
+      <link>https://www.smartprog.xyz/firstprogram/run-program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.smartprog.xyz/firstprogram/run-program/</guid>
+      <description>じゃあさっそくプログラムを動かしてみよう！
+まずは、プログラムを動かすためのサイトを紹介するよ！ ここ をクリックしてください。</description>
+    </item>
+    
+    <item>
+      <title>文字をひょうじしよう！</title>
+      <link>https://www.smartprog.xyz/firstprogram/print/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.smartprog.xyz/firstprogram/print/</guid>
+      <description>もくじ  printで、もじをひょうじしよう！ printで、数をひょうじしよう！  前のページで少し言ったけど、print(プリント)は英語で「いんさつする」というえいごで、プログラミングでは「画面にひょうじしなさい」というめいれいだよ
+日本語にプリンターがあるけど、これもプリントからきてるね！
+printで、もじをひょうじしよう！  それじゃあ、printの使い方をくわしくみていくよ！
+print(&amp;quot;ひょうじしたい文字&amp;quot;)  のように、printでは&amp;rdquo;&amp;ldquo;でかこまれたもじをひょうじできるよ！
+ちなみに、
+print(&#39;ひょうじしたい文字&#39;)  のように、&amp;rsquo; &amp;lsquo;でかこってもOK!
+printで、数をひょうじしよう！  かずをひょうじするには、
+print(数) # 例 print(10)  というようにすればいいよ！
+じゃあじっさいにプログラムを書いてためしてみよう！ ここ</description>
     </item>
     
   </channel>

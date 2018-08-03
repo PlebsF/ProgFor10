@@ -7,25 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>Japanese</language>
     <copyright>© NAME</copyright>
-    <lastBuildDate>Mon, 16 Jul 2018 12:57:42 +0900</lastBuildDate>
     
 	<atom:link href="https://www.smartprog.xyz/firstprogram/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>プログラムを動かしてみよう！</title>
-      <link>https://www.smartprog.xyz/firstprogram/run-program/</link>
-      <pubDate>Mon, 23 Jul 2018 14:39:34 +0900</pubDate>
-      
-      <guid>https://www.smartprog.xyz/firstprogram/run-program/</guid>
-      <description>じゃあさっそくプログラムを動かしてみよう！
-まずは、プログラムを動かすためのサイトを紹介するよ！ ここ をクリックしてください。</description>
-    </item>
-    
-    <item>
       <title>プログラムってなんだろう？</title>
       <link>https://www.smartprog.xyz/firstprogram/what-is-program/</link>
-      <pubDate>Sun, 22 Jul 2018 15:23:56 +0900</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.smartprog.xyz/firstprogram/what-is-program/</guid>
       <description>さて、はじめてプログラムを動かしてみたわけだけど、そもそも プログラムってなんだろう？
@@ -39,9 +28,19 @@ print(よみかた：プリント)とは「文字をひょうじしなさい」�
     </item>
     
     <item>
+      <title>プログラムを動かしてみよう！</title>
+      <link>https://www.smartprog.xyz/firstprogram/run-program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.smartprog.xyz/firstprogram/run-program/</guid>
+      <description>じゃあさっそくプログラムを動かしてみよう！
+まずは、プログラムを動かすためのサイトを紹介するよ！ ここ をクリックしてください。</description>
+    </item>
+    
+    <item>
       <title>文字をひょうじしよう！</title>
       <link>https://www.smartprog.xyz/firstprogram/print/</link>
-      <pubDate>Sat, 21 Jul 2018 16:28:55 +0900</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.smartprog.xyz/firstprogram/print/</guid>
       <description>もくじ  printで、もじをひょうじしよう！ printで、数をひょうじしよう！  前のページで少し言ったけど、print(プリント)は英語で「いんさつする」というえいごで、プログラミングでは「画面にひょうじしなさい」というめいれいだよ

@@ -1,6 +1,5 @@
 +++
 title =  "プログラムってなんだろう？"
-date =  2018-07-22T15:23:56+09:00
 draft = false
 disableToc = "false"
 menuTitle = "プログラムってなんだろう？"
@@ -8,8 +7,6 @@ pre = "2."
 post = ""
 chapter = false
 hidden = false
-LastModifierDisplayName = "ぷれぶす"
-LastModifierEmail = "plebsf@gmail.com"
 +++
 
 さて、はじめてプログラムを動かしてみたわけだけど、そもそも

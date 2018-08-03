@@ -1,11 +1,8 @@
 +++
 title =  "文字をひょうじしよう！"
-date =  2018-07-21T16:28:55+09:00
 draft = false
 disableToc = "false"
 pre = "3."
-LastModifierDisplayName = "ぷれぶす"
-LastModifierEmail = "plebsf@gmail.com"
 +++
 
 ### もくじ

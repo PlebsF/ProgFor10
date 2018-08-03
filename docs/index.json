@@ -21,20 +21,6 @@
 	"content": " 目次  引用 コード リスト 画像  引用   Fusion Drive combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.\n コード  print(\u0026quot;hello world!\u0026quot;)  リスト   Name  Name   画像     head1 head2     element1 element2    "
 },
 {
-	"uri": "https://www.smartprog.xyz/firstprogram/run-program/",
-	"title": "プログラムを動かしてみよう！",
-	"tags": [],
-	"description": "",
-	"content": "じゃあさっそくプログラムを動かしてみよう！\nまずは、プログラムを動かすためのサイトを紹介するよ！ ここ をクリックしてください。\n"
-},
-{
-	"uri": "https://www.smartprog.xyz/",
-	"title": "10歳からはじめるスマホプログラミング！",
-	"tags": [],
-	"description": "",
-	"content": " 10歳からはじめるスマホプログラミング！ スマホでプログラミングをはじめよう！ プログラミング面白いよ\nPythonとは？ Youtubeとかもこの言語で作られてるよ\n"
-},
-{
 	"uri": "https://www.smartprog.xyz/test/",
 	"title": "テスト",
 	"tags": [],
@@ -47,20 +33,6 @@
 	"tags": [],
 	"description": "",
 	"content": " ポストフォルダの_index.mdファイル "
-},
-{
-	"uri": "https://www.smartprog.xyz/firstprogram/what-is-program/",
-	"title": "プログラムってなんだろう？",
-	"tags": [],
-	"description": "",
-	"content": " さて、はじめてプログラムを動かしてみたわけだけど、そもそも プログラムってなんだろう？\nプログラムって？ 前のページでは、\nprint(\u0026quot;こんにちは\u0026quot;) print(\u0026quot;プログラムを動かした\u0026quot;)  というプログラムを動かしましたね。\nこれを詳しくみてみましょう。\nprint(よみかた：プリント)とは「文字をひょうじしなさい」という めいれい です。\nこんな風にプログラムには、「〜をしなさい」というコンピュータへのめいれいが 上からじゅんばんに かかれます。\nこういう めいれい をたくさん組み合わせて、かっこいいWebページやみんなが遊ぶゲームなどさまざまなものが作られているんだ！\nみんなも、このページでたくさんの めいれい の書き方や、プログラムの作り方をべんきょうして色々なものを作れるようになろう！\n"
-},
-{
-	"uri": "https://www.smartprog.xyz/firstprogram/print/",
-	"title": "文字をひょうじしよう！",
-	"tags": [],
-	"description": "",
-	"content": " もくじ  printで、もじをひょうじしよう！ printで、数をひょうじしよう！  前のページで少し言ったけど、print(プリント)は英語で「いんさつする」というえいごで、プログラミングでは「画面にひょうじしなさい」というめいれいだよ\n日本語にプリンターがあるけど、これもプリントからきてるね！\nprintで、もじをひょうじしよう！  それじゃあ、printの使い方をくわしくみていくよ！\nprint(\u0026quot;ひょうじしたい文字\u0026quot;)  のように、printでは\u0026rdquo;\u0026ldquo;でかこまれたもじをひょうじできるよ！\nちなみに、\nprint('ひょうじしたい文字')  のように、\u0026rsquo; \u0026lsquo;でかこってもOK!\nprintで、数をひょうじしよう！  かずをひょうじするには、\nprint(数) # 例 print(10)  というようにすればいいよ！\nじゃあじっさいにプログラムを書いてためしてみよう！ ここ\n"
 },
 {
 	"uri": "https://www.smartprog.xyz/post/post04/",
@@ -91,6 +63,13 @@
 	"content": " 目次  aaa bbb ccc  aaa Hello World\nbbb Hello\nccc How are you?\nThank you for coming!\n"
 },
 {
+	"uri": "https://www.smartprog.xyz/",
+	"title": "10歳からはじめるスマホプログラミング！",
+	"tags": [],
+	"description": "",
+	"content": " 10歳からはじめるスマホプログラミング！ スマホでプログラミングをはじめよう！ プログラミング面白いよ\nPythonとは？ Youtubeとかもこの言語で作られてるよ\n"
+},
+{
 	"uri": "https://www.smartprog.xyz/categories/",
 	"title": "Categories",
 	"tags": [],
@@ -103,4 +82,25 @@
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "https://www.smartprog.xyz/firstprogram/what-is-program/",
+	"title": "プログラムってなんだろう？",
+	"tags": [],
+	"description": "",
+	"content": " さて、はじめてプログラムを動かしてみたわけだけど、そもそも プログラムってなんだろう？\nプログラムって？ 前のページでは、\nprint(\u0026quot;こんにちは\u0026quot;) print(\u0026quot;プログラムを動かした\u0026quot;)  というプログラムを動かしましたね。\nこれを詳しくみてみましょう。\nprint(よみかた：プリント)とは「文字をひょうじしなさい」という めいれい です。\nこんな風にプログラムには、「〜をしなさい」というコンピュータへのめいれいが 上からじゅんばんに かかれます。\nこういう めいれい をたくさん組み合わせて、かっこいいWebページやみんなが遊ぶゲームなどさまざまなものが作られているんだ！\nみんなも、このページでたくさんの めいれい の書き方や、プログラムの作り方をべんきょうして色々なものを作れるようになろう！\n"
+},
+{
+	"uri": "https://www.smartprog.xyz/firstprogram/run-program/",
+	"title": "プログラムを動かしてみよう！",
+	"tags": [],
+	"description": "",
+	"content": "じゃあさっそくプログラムを動かしてみよう！\nまずは、プログラムを動かすためのサイトを紹介するよ！ ここ をクリックしてください。\n"
+},
+{
+	"uri": "https://www.smartprog.xyz/firstprogram/print/",
+	"title": "文字をひょうじしよう！",
+	"tags": [],
+	"description": "",
+	"content": " もくじ  printで、もじをひょうじしよう！ printで、数をひょうじしよう！  前のページで少し言ったけど、print(プリント)は英語で「いんさつする」というえいごで、プログラミングでは「画面にひょうじしなさい」というめいれいだよ\n日本語にプリンターがあるけど、これもプリントからきてるね！\nprintで、もじをひょうじしよう！  それじゃあ、printの使い方をくわしくみていくよ！\nprint(\u0026quot;ひょうじしたい文字\u0026quot;)  のように、printでは\u0026rdquo;\u0026ldquo;でかこまれたもじをひょうじできるよ！\nちなみに、\nprint('ひょうじしたい文字')  のように、\u0026rsquo; \u0026lsquo;でかこってもOK!\nprintで、数をひょうじしよう！  かずをひょうじするには、\nprint(数) # 例 print(10)  というようにすればいいよ！\nじゃあじっさいにプログラムを書いてためしてみよう！ ここ\n"
 }]
