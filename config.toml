@@ -3,12 +3,12 @@ languageCode = "ja-JA"
 title = "10歳からはじめるスマホプログラミング！"
 theme="hugo-theme-learn"
 baseurl = "https://www.smartprog.xyz/"
-copyright = "© SUMAPURO"
+copyright = "© 2018 スマプロ"
 canonifyurls = true
 googleAnalytics = "UA-122734515-1" # optional
 
 [params]
-  description = "Pythonをつかってスマホプログラミングを勉強する" #optional
+    description = "Pythonをつかってスマホプログラミングを勉強する" #optional
     # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page.
     # Useful to give opportunity to people to create merge request for your doc.
     # See the config.toml file from this documentation site to have an example.

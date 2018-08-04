@@ -6,7 +6,7 @@
     <description>Recent content in 初めてのプログラム on 10歳からはじめるスマホプログラミング！</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JA</language>
-    <copyright>© SUMAPURO</copyright>
+    <copyright>© 2018 スマプロ</copyright>
     
 	<atom:link href="https://www.smartprog.xyz/firstprogram/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,8 +17,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.smartprog.xyz/firstprogram/run-program/</guid>
-      <description>じゃあさっそくプログラムを動かしてみよう！
-まずは、プログラムを動かすためのサイトを紹介するよ！ ここ をクリックしてください。</description>
+      <description>まずはプログラムを動かすために使う，JupyterNotebook( ジュピターノートブック )というサイトを紹介するよ．
+このサイトでは基本的にこのジュピターノートブックを使ってプログラムを書いて動かしていくことになるよ．
+下のリンクをクリックすると，ジュピターノートブックが開かれます．
+![サンプル画像]()
+ここでは，このセルの中にプログラムを書いて動かせるよ． プログラムを動かす時はこのRunボタンをタップすればいいよ，ちなみにRunは英語でプログラムを動かすという意味だよ！
+じゃあ，さっそくプログラムをRunしてみよう！
+ここ をクリックしてね！</description>
     </item>
     
     <item>
