@@ -5,7 +5,7 @@ theme="hugo-theme-learn"
 baseurl = "https://www.smartprog.xyz/"
 copyright = "© 2018 スマプロ"
 canonifyurls = true
-googleAnalytics = "UA-122734515-1" # optional
+googleAnalytics = "UA-122734515-1"
 
 [params]
     description = "Pythonをつかってスマホプログラミングを勉強する" #optional
