@@ -4,7 +4,6 @@ draft = false
 disableToc = "false"
 pre = "3."
 weight = 3
-googleAnalytics = "UA-122734515-1" # optional
 +++
 
 ### もくじ
