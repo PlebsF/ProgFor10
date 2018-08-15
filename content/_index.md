@@ -4,6 +4,7 @@ draft = false
 menuTitle = "メニュータイトル"
 pre = "1. "
 post = ""
+weight = 0
 +++
 
 # 10歳からはじめるスマホプログラミング！

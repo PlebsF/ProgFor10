@@ -21,7 +21,7 @@ weight = 3
 ``` Python
 print("ひょうじしたい文字")
 ```
-のように，printでは""でかこまれたもじをひょうじできるよ！
+のように，printでは "" でかこまれたもじをひょうじできるよ！
 
 ちなみに，
 ``` Python
@@ -30,7 +30,7 @@ print('ひょうじしたい文字')
 のように，' 'でかこってもOK!
 
 ### printで、数をひょうじしよう！ <a id="chapter-2"></a>
-かずをひょうじするには，
+数をひょうじするには，
 ``` python
 print(数)
 # 例
@@ -38,5 +38,6 @@ print(10)
 ```
 というようにすればいいよ！
 
-じゃあじっさいにプログラムを書いてためしてみよう！
-[ここ](https://mybinder.org/v2/gh/PlebsF/JupyterNotebook/master?filepath=note02.ipynb)
+じゃあじっさいに,
+[文字・数をひょうじしてみよう-JupyterNotebook](https://mybinder.org/v2/gh/PlebsF/JupyterNotebook/master?filepath=note02.ipynb)
+でためしてみよう！
