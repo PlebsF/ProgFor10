@@ -1,8 +1,8 @@
 +++
 title = "計算"
-weight = 6
+weight = 7
 chapter = true
-pre = "<b>2. </b>"
+pre = "<b>3. </b>"
 +++
 
 ### チャプター2

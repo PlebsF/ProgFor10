@@ -7,7 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JA</language>
     <copyright>© 2018 スマプロ</copyright>
-    <lastBuildDate>Mon, 23 Jul 2018 03:55:16 +0900</lastBuildDate>
     
 	<atom:link href="https://www.smartprog.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,6 +22,36 @@
 下のリンクをクリックすると，ジュピターノートブックが開かれて，ここからじっさいにプログラムを動かしてみることができるよ！
 ここでは，このセルの中にプログラムを書いて動かせるよ． プログラムを動かす時はこのRunボタンをタップすればいいよ，ちなみにRunは英語でプログラムを動かすという意味だよ！
 じゃあ，さっそく プログラミングを動かしてみる-JupyterNotebook でプログラムを動かしてみよう！</description>
+    </item>
+    
+    <item>
+      <title>変数って？</title>
+      <link>https://www.smartprog.xyz/variable/what-is-variable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.smartprog.xyz/variable/what-is-variable/</guid>
+      <description>へんすうって？ 「へんすう」は，あたい(文字とか数のこと)をいれておく箱のようなものだよ．
+まずは例をみてみよう！
+# Aというへんすうに，10というかずをいれてみる A = 10 # Bというへんすうに，15というかずをいれてみる B = 15 print( A + B )  結果は，
+$ 25  となるよ．こんなふうに，へんすうに数や文字をいれて使うことができるんだ！
+「へんすうにあたいをいれること」を代入(だいにゅう)と言うよ．
+代入は&amp;lt;へんすう&amp;gt; = &amp;lt;代入するあたい&amp;gt;と書くよ．
+A = 5  こう書くことで，Aというへんすうに5を代入する，つまり5をいれるよってことになるね！
+ちなみに，# は コメント というものだよ．これを使うことでプログラムにえいきょうしないメモを書いておくことができるんだ！
+ へんすうの中身をかえる へんすうは漢字で「変わる数」とかくよ．つまり，変数の中のあたい(数や文字)はかえることができるということなんだ．
+下のコードをみてみてね！
+# namae という変数をつかっていくよ # namae という変数に，たろう(文字)を代入すると namae = &amp;quot;たろう&amp;quot; print( namae ) # namae に新しく，じろう(文字)を代入して変数のなかみを変えてみるよ namae = &amp;quot;じろう&amp;quot; print( namae )  結果は，
+$ たろう $ じろう  こんなふうに，変数の中身を入れ替えて使うことができるんだ！</description>
+    </item>
+    
+    <item>
+      <title>足し算と引き算をしてみよう！</title>
+      <link>https://www.smartprog.xyz/calculation/plusminus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.smartprog.xyz/calculation/plusminus/</guid>
+      <description> もくじ  計算をしてみよう！ 足し算をしてみよう！ 引き算をしてみよう！  計算をしてみよう！  初めてのプログラム-文字と数 で勉強したように，Pythonでは数を使ってで計算ができるよ．かるくおさらいをしておこう！
+# 足し算 print(5 + 3)  </description>
     </item>
     
     <item>
@@ -67,61 +96,12 @@ print(数) # 例 print(10)  というようにすればいいよ！
       <description>前回のおさらい print( &amp;quot;10 + 5&amp;quot; ) print( 10 + 5 )  こんなプログラムを動かしたね． 結果は，
 10 + 5 15  だったね． これについてくわしく教えるよ．
 同じ 「10 + 5」でも，&amp;rdquo; &amp;ldquo; でかこむと文字として，
-かこまないと数としてあつかわれるということだ．
+かこまないと数としてあつかわれるということなんだ．
 数としてあつかうというのは，つまり計算ができるということなんだ．
 つまり 10 + 5 は数の10と数の5を足したもの，という意味だから10 + 5を計算した答えの15がひょうじされて，
 「10 + 5」はそのままこの文字のことだから，10 + 5 がひょうじされた，ということだね．
 まとめ  文字 : そのままの文字(言葉) 数 : 数としての意味があるから計算ができる  ちなみに，数を使うことで足し算以外でも色々な計算をすることができるから，くわしくはまた今度勉強しようね！
 じゃあ，今回もじっさいにためしてみよう！ [ここ]()をクリックしてね！</description>
-    </item>
-    
-    <item>
-      <title>Testpost</title>
-      <link>https://www.smartprog.xyz/test/testpost/</link>
-      <pubDate>Mon, 23 Jul 2018 03:55:16 +0900</pubDate>
-      
-      <guid>https://www.smartprog.xyz/test/testpost/</guid>
-      <description> 目次  引用 コード リスト 画像  引用   Fusion Drive combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
- コード  print(&amp;quot;hello world!&amp;quot;)  リスト   Name  Name   画像     head1 head2     element1 element2    </description>
-    </item>
-    
-    <item>
-      <title>Post04</title>
-      <link>https://www.smartprog.xyz/post/post04/</link>
-      <pubDate>Mon, 16 Jul 2018 10:42:10 +0900</pubDate>
-      
-      <guid>https://www.smartprog.xyz/post/post04/</guid>
-      <description> aaaa </description>
-    </item>
-    
-    <item>
-      <title>Post03</title>
-      <link>https://www.smartprog.xyz/post/post03/</link>
-      <pubDate>Mon, 16 Jul 2018 10:29:53 +0900</pubDate>
-      
-      <guid>https://www.smartprog.xyz/post/post03/</guid>
-      <description>Hello World! hello</description>
-    </item>
-    
-    <item>
-      <title>Post02</title>
-      <link>https://www.smartprog.xyz/post/post02/</link>
-      <pubDate>Mon, 16 Jul 2018 08:36:18 +0900</pubDate>
-      
-      <guid>https://www.smartprog.xyz/post/post02/</guid>
-      <description> aaa iii uu ee oo </description>
-    </item>
-    
-    <item>
-      <title>テストページ</title>
-      <link>https://www.smartprog.xyz/post/post01/</link>
-      <pubDate>Sun, 15 Jul 2018 13:54:42 +0900</pubDate>
-      
-      <guid>https://www.smartprog.xyz/post/post01/</guid>
-      <description>目次  aaa bbb ccc  aaa Hello World
-bbb Hello
-ccc How are you?
-Thank you for coming!</description>
     </item>
     
   </channel>

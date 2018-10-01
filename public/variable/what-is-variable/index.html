@@ -10,7 +10,7 @@
 
     <link rel="shortcut icon" href="https://www.smartprog.xyz/images/favicon.png" type="image/x-icon" />
 <link rel="icon" href="https://www.smartprog.xyz/images/favicon.png" type="image/x-icon" />
-    <title>10歳からはじめるスマホプログラミング！ : 10歳からはじめるスマホプログラミング！</title>
+    <title>変数って？ : 10歳からはじめるスマホプログラミング！</title>
     
     <link href="https://www.smartprog.xyz/css/nucleus.css?1538367886" rel="stylesheet">
     <link href="https://www.smartprog.xyz/css/font-awesome.min.css?1538367886" rel="stylesheet">
@@ -34,7 +34,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/">
+  <body class="" data-url="/variable/what-is-variable/">
     <nav id="sidebar" class="">
 
 
@@ -183,7 +183,7 @@
   
     
     <li data-nav-id="/variable/" title="変数" class="dd-item 
-        
+        parent
         
         
         ">
@@ -207,7 +207,7 @@
  
   
     
-      <li data-nav-id="/variable/what-is-variable/" title="変数って？" class="dd-item ">
+      <li data-nav-id="/variable/what-is-variable/" title="変数って？" class="dd-item active">
         <a href="https://www.smartprog.xyz/variable/what-is-variable/">
         1.変数って？
         
@@ -315,29 +315,127 @@
         <div id="overlay"></div>
         <div class="padding highlightable">
               
+              <div>
+                <div id="top-bar">
+                
+                
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                          <i class="fa fa-bars"></i>
+                        </a>
+                    </span>
+                  
+                  <span class="links">
+                    
+          
+          
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='https://www.smartprog.xyz/'>10歳からはじめるスマホプログラミング！</a> > <a href='https://www.smartprog.xyz/variable/'>変数</a> > 変数って？
+          
+        
+          
+        
+          
+        
+                  </span>
+                </div>
+                
+              </div>
+            </div>
+            
 
         
         <div id="body-inner">
           
+            <h1>変数って？</h1>
+          
 
         
 
-<span id="sidebar-toggle-span">
-<a href="#" id="sidebar-toggle" data-sidebar-toggle=""><i class="fa fa-bars"></i> navigation</a>
-</span>
 
 
 
+<h3 id="へんすうって">へんすうって？</h3>
 
-<h1 id="10歳からはじめるスマホプログラミング">10歳からはじめるスマホプログラミング！</h1>
+<p>「へんすう」は，あたい(文字とか数のこと)をいれておく箱のようなものだよ．</p>
 
-<h3 id="スマホでプログラミングをはじめよう">スマホでプログラミングをはじめよう！</h3>
+<p>まずは例をみてみよう！</p>
 
-<p>プログラミング面白いよ</p>
+<pre><code class="language-Python"># Aというへんすうに，10というかずをいれてみる
+A = 10
+# Bというへんすうに，15というかずをいれてみる
+B = 15
+print( A + B )
+</code></pre>
 
-<h3 id="pythonとは">Pythonとは？</h3>
+<p>結果は，</p>
 
-<p>Youtubeとかもこの言語で作られてるよ</p>
+<pre><code>$ 25
+</code></pre>
+
+<p>となるよ．こんなふうに，へんすうに数や文字をいれて使うことができるんだ！</p>
+
+<p>「へんすうにあたいをいれること」を<strong>代入</strong>(だいにゅう)と言うよ．</p>
+
+<p>代入は&lt;へんすう&gt; = &lt;代入するあたい&gt;と書くよ．</p>
+
+<pre><code class="language-Python">A = 5
+</code></pre>
+
+<p>こう書くことで，Aというへんすうに5を代入する，つまり5をいれるよってことになるね！</p>
+
+<div class="notices tip" ><p>ちなみに，# は
+<em>コメント</em>
+というものだよ．これを使うことでプログラムにえいきょうしないメモを書いておくことができるんだ！</p>
+</div>
+
+
+<h2 id="へんすうの中身をかえる">へんすうの中身をかえる</h2>
+
+<p>へんすうは漢字で「変わる数」とかくよ．つまり，変数の中のあたい(数や文字)はかえることができるということなんだ．</p>
+
+<p>下のコードをみてみてね！</p>
+
+<pre><code class="language-Python"># namae という変数をつかっていくよ
+# namae という変数に，たろう(文字)を代入すると
+namae = &quot;たろう&quot;
+print( namae )
+# namae に新しく，じろう(文字)を代入して変数のなかみを変えてみるよ
+namae = &quot;じろう&quot;
+print( namae )
+</code></pre>
+
+<p>結果は，</p>
+
+<pre><code>$ たろう
+$ じろう
+</code></pre>
+
+<p>こんなふうに，変数の中身を入れ替えて使うことができるんだ！</p>
+
+<h2 id="まとめ">まとめ</h2>
+
+<ul>
+<li>変数とは，あたいをいれておく箱</li>
+<li>変数の中身は変えられる！</li>
+</ul>
+
+<p>それじゃあ，
+[]()
+で試してみよう！</p>
+
+
+<footer class=" footline" >
+	
+</footer>
 
 
         
@@ -454,6 +552,43 @@
             
                 
                     
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
                 
                 
 
@@ -481,38 +616,6 @@
             
         
                     
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
             
         
         
@@ -520,8 +623,10 @@
 
 
         
+            <a class="nav nav-prev" href="https://www.smartprog.xyz/variable/" title="変数"> <i class="fa fa-chevron-left"></i></a>
         
-            <a class="nav nav-next" href="https://www.smartprog.xyz/firstprogram/" title="初めてのプログラム" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+        
+            <a class="nav nav-next" href="https://www.smartprog.xyz/calculation/" title="計算" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
         
     </div>
 

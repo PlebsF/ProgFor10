@@ -7,6 +7,20 @@
 	"content": "まずはプログラムを動かすために使う，JupyterNotebook( ジュピターノートブック )を紹介するよ．\nこのサイトでは基本的にこのジュピターノートブックを使ってプログラムを書いて動かしていくことになるよ．\n下のリンクをクリックすると，ジュピターノートブックが開かれて，ここからじっさいにプログラムを動かしてみることができるよ！\nここでは，このセルの中にプログラムを書いて動かせるよ． プログラムを動かす時はこのRunボタンをタップすればいいよ，ちなみにRunは英語でプログラムを動かすという意味だよ！\nじゃあ，さっそく プログラミングを動かしてみる-JupyterNotebook でプログラムを動かしてみよう！\n"
 },
 {
+	"uri": "https://www.smartprog.xyz/variable/what-is-variable/",
+	"title": "変数って？",
+	"tags": [],
+	"description": "",
+	"content": " へんすうって？ 「へんすう」は，あたい(文字とか数のこと)をいれておく箱のようなものだよ．\nまずは例をみてみよう！\n# Aというへんすうに，10というかずをいれてみる A = 10 # Bというへんすうに，15というかずをいれてみる B = 15 print( A + B )  結果は，\n$ 25  となるよ．こんなふうに，へんすうに数や文字をいれて使うことができるんだ！\n「へんすうにあたいをいれること」を代入(だいにゅう)と言うよ．\n代入は\u0026lt;へんすう\u0026gt; = \u0026lt;代入するあたい\u0026gt;と書くよ．\nA = 5  こう書くことで，Aというへんすうに5を代入する，つまり5をいれるよってことになるね！\nちなみに，# は コメント というものだよ．これを使うことでプログラムにえいきょうしないメモを書いておくことができるんだ！\n へんすうの中身をかえる へんすうは漢字で「変わる数」とかくよ．つまり，変数の中のあたい(数や文字)はかえることができるということなんだ．\n下のコードをみてみてね！\n# namae という変数をつかっていくよ # namae という変数に，たろう(文字)を代入すると namae = \u0026quot;たろう\u0026quot; print( namae ) # namae に新しく，じろう(文字)を代入して変数のなかみを変えてみるよ namae = \u0026quot;じろう\u0026quot; print( namae )  結果は，\n$ たろう $ じろう  こんなふうに，変数の中身を入れ替えて使うことができるんだ！\nまとめ  変数とは，あたいをいれておく箱 変数の中身は変えられる！  それじゃあ， []() で試してみよう！\n"
+},
+{
+	"uri": "https://www.smartprog.xyz/calculation/plusminus/",
+	"title": "足し算と引き算をしてみよう！",
+	"tags": [],
+	"description": "",
+	"content": " もくじ  計算をしてみよう！ 足し算をしてみよう！ 引き算をしてみよう！  計算をしてみよう！  初めてのプログラム-文字と数 で勉強したように，Pythonでは数を使ってで計算ができるよ．かるくおさらいをしておこう！\n# 足し算 print(5 + 3)  "
+},
+{
 	"uri": "https://www.smartprog.xyz/firstprogram/what-is-program/",
 	"title": "プログラムってなんだろう？",
 	"tags": [],
@@ -25,7 +39,7 @@
 	"title": "文字と数",
 	"tags": [],
 	"description": "",
-	"content": " 前回のおさらい print( \u0026quot;10 + 5\u0026quot; ) print( 10 + 5 )  こんなプログラムを動かしたね． 結果は，\n10 + 5 15  だったね． これについてくわしく教えるよ．\n同じ 「10 + 5」でも，\u0026rdquo; \u0026ldquo; でかこむと文字として，\nかこまないと数としてあつかわれるということだ．\n数としてあつかうというのは，つまり計算ができるということなんだ．\nつまり 10 + 5 は数の10と数の5を足したもの，という意味だから10 + 5を計算した答えの15がひょうじされて，\n「10 + 5」はそのままこの文字のことだから，10 + 5 がひょうじされた，ということだね．\nまとめ  文字 : そのままの文字(言葉) 数 : 数としての意味があるから計算ができる  ちなみに，数を使うことで足し算以外でも色々な計算をすることができるから，くわしくはまた今度勉強しようね！\nじゃあ，今回もじっさいにためしてみよう！ [ここ]()をクリックしてね！\n"
+	"content": " 前回のおさらい print( \u0026quot;10 + 5\u0026quot; ) print( 10 + 5 )  こんなプログラムを動かしたね． 結果は，\n10 + 5 15  だったね． これについてくわしく教えるよ．\n同じ 「10 + 5」でも，\u0026rdquo; \u0026ldquo; でかこむと文字として，\nかこまないと数としてあつかわれるということなんだ．\n数としてあつかうというのは，つまり計算ができるということなんだ．\nつまり 10 + 5 は数の10と数の5を足したもの，という意味だから10 + 5を計算した答えの15がひょうじされて，\n「10 + 5」はそのままこの文字のことだから，10 + 5 がひょうじされた，ということだね．\nまとめ  文字 : そのままの文字(言葉) 数 : 数としての意味があるから計算ができる  ちなみに，数を使うことで足し算以外でも色々な計算をすることができるから，くわしくはまた今度勉強しようね！\nじゃあ，今回もじっさいにためしてみよう！ [ここ]()をクリックしてね！\n"
 },
 {
 	"uri": "https://www.smartprog.xyz/firstprogram/",
@@ -35,60 +49,18 @@
 	"content": " チャプター 1 初めてのプログラム プログラムを書いてみる\n"
 },
 {
+	"uri": "https://www.smartprog.xyz/variable/",
+	"title": "変数",
+	"tags": [],
+	"description": "",
+	"content": " チャプター2 へんすう 「へんすう」について学んでいこう！\n"
+},
+{
 	"uri": "https://www.smartprog.xyz/calculation/",
 	"title": "計算",
 	"tags": [],
 	"description": "",
 	"content": " チャプター2 計算 "
-},
-{
-	"uri": "https://www.smartprog.xyz/test/testpost/",
-	"title": "Testpost",
-	"tags": [],
-	"description": "",
-	"content": " 目次  引用 コード リスト 画像  引用   Fusion Drive combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.\n コード  print(\u0026quot;hello world!\u0026quot;)  リスト   Name  Name   画像     head1 head2     element1 element2    "
-},
-{
-	"uri": "https://www.smartprog.xyz/test/",
-	"title": "テスト",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://www.smartprog.xyz/post/",
-	"title": "ポスト",
-	"tags": [],
-	"description": "",
-	"content": " ポストフォルダの_index.mdファイル "
-},
-{
-	"uri": "https://www.smartprog.xyz/post/post04/",
-	"title": "Post04",
-	"tags": [],
-	"description": "",
-	"content": " aaaa "
-},
-{
-	"uri": "https://www.smartprog.xyz/post/post03/",
-	"title": "Post03",
-	"tags": [],
-	"description": "",
-	"content": " Hello World! hello\n"
-},
-{
-	"uri": "https://www.smartprog.xyz/post/post02/",
-	"title": "Post02",
-	"tags": [],
-	"description": "",
-	"content": " aaa iii uu ee oo "
-},
-{
-	"uri": "https://www.smartprog.xyz/post/post01/",
-	"title": "テストページ",
-	"tags": [],
-	"description": "",
-	"content": " 目次  aaa bbb ccc  aaa Hello World\nbbb Hello\nccc How are you?\nThank you for coming!\n"
 },
 {
 	"uri": "https://www.smartprog.xyz/",
